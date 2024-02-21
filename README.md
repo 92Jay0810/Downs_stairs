@@ -4,6 +4,8 @@
 ### touch ceiling reduce 2hp
 ### touch love  gain 2 hp
 ### touch smallnails reduce 2 hp
-![MainMenu](https://github.com/aqew78/Down_stairs/assets/96120430/f284201d-86c2-4548-a8eb-f8deb855931a)
-![圖片](https://github.com/aqew78/Down_stairs/assets/96120430/a33db033-fad5-4cef-a0c8-51f3a06c7f02)
-![圖片](https://github.com/aqew78/Down_stairs/assets/96120430/66455e38-2c12-4c11-84dd-900b29334dc8)
+
+![圖片](https://github.com/aqew78/Downs_stairs/assets/96120430/803beebb-2efe-481d-89c0-ec84b2c4077b)
+![MainMenu](https://github.com/aqew78/Downs_stairs/assets/96120430/7d639621-c476-4f2b-9695-58b843f0d7fa)
+![圖片](https://github.com/aqew78/Downs_stairs/assets/96120430/3e1d0dda-208f-4312-b711-f7ddbadd0d9b)
+![圖片](https://github.com/aqew78/Downs_stairs/assets/96120430/78655378-65c2-42ca-8d28-05dee5a3b37f)
